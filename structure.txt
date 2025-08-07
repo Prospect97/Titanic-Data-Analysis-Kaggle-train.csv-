@@ -1,0 +1,6 @@
+titanic-analysis/
+├── train.csv
+├── jupyter_kernel.ipynb      <- główna analiza
+├── raport.pdf           <- (opcjonalny) podsumowanie
+├── README.md            <- opis projektu, technologii, wniosków
+└── requirements.txt     <- użyte biblioteki
